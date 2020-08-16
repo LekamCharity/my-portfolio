@@ -1,0 +1,101 @@
+*{
+    box-sizing: border-box;
+}
+
+html,body{
+    font-family: sans-serif;
+    color:whitesmoke;
+    background-color: tomato;
+    background-image:url(/home/moringa/Desktop/IMG-20190929-WA0001.jpg);
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+    font-size: x-large;
+    background-size: cover;
+}
+#home{
+    height:50vh;
+    margin-top: -65px;
+}
+#home h1{
+    display:flex;
+    justify-content: center;
+    padding-top: 300px;
+    font-size: 100px;
+}
+#home p{
+    text-align: center;
+    font-size:50px ;
+    font-style: inherit;
+    margin-top: -50px;
+}
+
+#about me{
+    padding-left: 80px;
+    align-items: center;
+    background-size: cover;
+    margin-top: -28px;
+    margin-bottom: -21px;
+    background-color: azure;
+
+}
+#projects h2{
+    color: yellow;
+}
+#projects ul li{
+    color: blue;
+    font-weight: bolder;
+}
+#links h2{
+    color: yellow;
+}
+#links ul li{
+    font-weight: 20px;
+}
+/* FOOTER*/
+.footer{
+    color:fuchsia;
+    height: 400px;
+    position: relative;
+}
+.contact-form{
+    width: 100%;
+    max-width: 1200px;
+    text-align: center;
+    position: unset;
+}
+.contact-form h1{
+    font-weight: 200;
+    margin-top: 0;
+}
+.txtb{
+    margin:8px 0;
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 1px solid gray;
+}
+.txtb label{
+    display: block;
+    text-align: left;
+    columns: #333333;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.txtb input, .txtb textarea{
+    width: 100%;
+    border: none;
+    background: none;
+    outline: none;
+    font-size: 18px;
+    margin-top: 6px;
+}
+.btn{
+    display: block;
+    background: #9b599b;
+    padding: 14px 0;
+    color: honeydew;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-top: 8px;
+    width: 100%
+}
