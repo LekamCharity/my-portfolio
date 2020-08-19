@@ -7,12 +7,8 @@ The Author is Lekam Charity Bisembe with the licence providers.
 This is a personal page. The main aim is to interact with the user where they can know details of myself.
 
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* The WebApp is compatible with devices of all sizes 
+  it just uses HTML and CSS to function.
 ## Known Bugs
 There's no user sign up because the building languages were Html and CSS.
 
