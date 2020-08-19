@@ -18,6 +18,6 @@ I used the HTML to describe the structure of the information on my webpage. The 
 ## Support and contact details
 Incase of any questions or any new ideas that can help me better this page kindly contact me on <lekamcharity@gmail.com .
 
-### LICENSE
+### <LICENSE.md
 **{MIT License}**
 Copyright (c) {2020} **{Lekam Charity}**
