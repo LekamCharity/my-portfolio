@@ -1,8 +1,6 @@
-# {My-Programming-Portfolio}
+# My-Programming-Portfolio
 
-#### {Brief description of application}, {Date of current version}
-
-#### By **{List of contributors}**
+#### **List of contributors**
 The Author is Lekam Charity Bisembe with the licence providers.
 
 ## Description
