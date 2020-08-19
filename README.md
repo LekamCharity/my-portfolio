@@ -1,29 +1,29 @@
-Name:My-porfolio.
-Description:
-This is a personal page. The main aim is to interact with the user where they can know details of myself. contributors to this site were: -The Author, -The licence providers.
+# {My-Programming-Portfolio}
 
-Author:
-The Author of this web is Lekam Charity Bisembe.
+#### {Brief description of application}, {Date of current version}
 
-Project Setup:
-Home page consisting of: -Name of Author & contact space in the footer. -Links leading to 'About me' & 'Projects' pages. About Me page having: -Education and employment background. -Skills. -List of my  hobbies. Styles CSS inclusive styling all pages.
+#### By **{List of contributors}**
+The Author is Lekam Charity Bisembe with the licence providers.
 
-Instructions:
-You just need to run the website link and there you are. The format is simple and easy to understand. When on Home page,just simply navigate through the menu. You don't need any supportive dependencies to run the website
+## Description
+This is a personal page. The main aim is to interact with the user where they can know details of myself.
 
-Technologies Used
-I used HTML to build the website and Styles.CSS to style up the website.
+## Setup/Installation Requirements
+* This is a great place
+* to list setup instructions
+* in a simple
+* easy-to-understand
+* format
+{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+## Known Bugs
+There's no user sign up because the building languages were Html and CSS.
 
-Known Bugs
-There's no user sign up because the building languages were Html and Css. Hope to have it soon.
+## Technologies Used
+I used the HTML to describe the structure of the information on my webpage. The CSS was used for styling the pages' apperance.
 
-Get into the website Here:-
-<https://github.com/LekamCharity/my-portfolio
+## Support and contact details
+Incase of any questions or any new ideas that can help me better this page kindly contact me on <lekamcharity@gmail.com .
 
-Support and contact details
-If you have any issues,kindly contact me on my email <lekamcharity@gmail.com
-
-License
-MIT license Copyright (c) {2020} 
-
-© 2020 GitHub, Inc.
+### License
+**{https://opensource.org/licenses/MIT}**
+Copyright (c) {year} **{Lekam Charity}**
