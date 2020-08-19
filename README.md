@@ -19,5 +19,5 @@ I used the HTML to describe the structure of the information on my webpage. The 
 Incase of any questions or any new ideas that can help me better this page kindly contact me on <lekamcharity@gmail.com .
 
 ### License
-**{https://opensource.org/licenses/MIT}**
-Copyright (c) {year} **{Lekam Charity}**
+**{MIT License}**
+Copyright (c) {2020} **{Lekam Charity}**
