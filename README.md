@@ -11,8 +11,5 @@
 ### License
 MIT license
 Copyright (c) {2020} LekamCharity
-<<<<<<< HEAD
   
 
-=======
->>>>>>> e97f54170f924363d09b4f3586cee6ade11bec0a

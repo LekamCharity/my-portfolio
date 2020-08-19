@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    font-family: sans-serif;
+} 
+#menu{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+ 
+ #about me{
+    background-image: url("https://bit.ly/2OFo1ga");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+    color:red;
+    border-style: groove;
+    border-color: blueviolet;
+    border-width: 0.5em;
+ }
