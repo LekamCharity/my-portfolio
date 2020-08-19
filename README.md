@@ -9,6 +9,8 @@ This is a personal page. The main aim is to interact with the user where they ca
 ## Setup/Installation Requirements
 * The WebApp is compatible with devices of all sizes 
   it just uses HTML and CSS to function.
+  Get into the website Here:- <https://github.com/LekamCharity/my-portfolio
+
 ## Known Bugs
 There's no user sign up because the building languages were Html and CSS.
 
@@ -18,6 +20,6 @@ I used the HTML to describe the structure of the information on my webpage. The 
 ## Support and contact details
 Incase of any questions or any new ideas that can help me better this page kindly contact me on <lekamcharity@gmail.com .
 
-### <LICENSE.md
+### LICENSE
 **{MIT License}**
 Copyright (c) {2020} **{Lekam Charity}**
