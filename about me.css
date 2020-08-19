@@ -4,14 +4,7 @@
 body{
     height: 100%;
     font-family: sans-serif;
-} 
-#menu{
-    font-size: xx-large;
-    font-weight: bolder;
-}
- 
- #about me{
-    background-image: url("https://bit.ly/2OFo1ga");
+    background-image: url(https://i.imgur.com/dZa5qWa.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -20,5 +13,5 @@ body{
     color:red;
     border-style: groove;
     border-color: blueviolet;
-    border-width: 0.5em;
- }
+}
+ 
