@@ -1,49 +1,208 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="styles.css">
-    <script src="JS/javascript.js"></script>
-    <script src="https://kit.fontawesome.com/fd36abf95c.js" crossorigin="anonymous"></script>
-    <title>My-Programming-Portfolio.</title>
+    <title>Lekam Charity | FullStack Web Developer</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
+    <header id="header">
+        <nav class="navbar">
+            <div class="logo-wrapper">
+                <p1>Lekam Charity | FullStack Web Developer.</p1>
+            </div>
+            <div class="nav-links-wrapper">
+                <div class="nav-link">
+                    <div class="nav-item">
+                        <a href="#about-me" class="link">About Me</a>
+                    </div>
+                </div>
+                <div class="nav-link">
 
-     <div id="menu">
-        <div id="Home" ><a href="index.html" >Home</a></div>
-        <div id="About" ><a href="about me.html" >About Me</a></div>  
-        <div id="projects" ><a href="projects.html" >Projects</a></div>  
-     </div>
-  
-      <div id="home">
-         <h1>I am Lekam charity</h1> 
-          <p>Junior Programmer</p>
-      </div>
- 
-  <!-- // Page Wrapper-->
-  <div class="footer">
-        <div class="footer-section contact-form">
-            <h1>Contact me</h1>
-            <h2> Always at your service.</h2>
+                    <div class="nav-item">
+                        <a href="#fluency" class="link">Languages</a>
+                    </div>
+                </div>
+                <div class="nav-link">
 
-    <div class="txtb">
-        <label>Your names : </label>
-        <input type="text" name="" value=""  placeholder= "Enter your full names...">
-    </div>
+                    <div class="nav-item">
+                        <a href="#projects" class="link">Projects</a>
+                    </div>
+                </div>
+                <div class="nav-link">
+                    <div class="nav-item">
+                        <a href="#contact-me" class="link">Contact</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <section id="about-me" class="about-me">
+        <div class="text-wrapper">
+            <mark>
+                <p class="welcome"><span>Hello,</span> </p>
+                <p class="my-name">I'm <span>Lekam Charity</span> , <br>a Full Stack Software Developer,<br>
+                    l write code and develop apps<br> <span>While not hacking </span> <br>I do Theatrical acting. </p>
 
-    <div class="txtb">
-        <label>Email Address : </label>
-        <input type="email" name="" value=""  placeholder= "Enter your email...">
-    </div>
-
-    <div class="txtb">
-        <label>Message :</label>
-        <textarea></textarea>
-    </div>
-       <a class="btn">Send</a>
+            </mark>
         </div>
-  </div>
-</body>
-</html>
+    </section>
+    <section id="fluency" class="fade-in fluency">
+        <p class="fluency-title">I'm good at,</p>
+        <div class="languages">
+            <img src="images/php.svg" class="language" />
 
+            <img src="images/python.svg" class="language" />
+
+            <img src="images/javascript.svg" class="language" />
+
+            <img src="images/nodejs-icon.svg" class="language" />
+        </div>
+        <div class="languages">
+            <img src="images/flask.svg" class="language" />
+
+            <img src="images/angular.svg" class="language" />
+
+            <img src="images/html-5.svg" class="language" />
+
+            <img src="images/css.svg" class="language" />
+
+        </div>
+    </section>
+    <section id="projects" class="fade-in projects">
+        <div class="projects-title">
+            <p>Projects I've worked on</p>
+        </div>
+        <div class="projects-wrapper">
+            <div class="project-item">
+                <div class="texts">
+                    <div class="website-title">
+                        <a href="https://lekamcharity.github.io/LE-PIZARRIE/" target="_blank"
+                            referrerpolicy="no-referrer">
+                            Le-Pizarrie</a>
+                    </div>
+                    <div class="website-description">
+                        <p> This Website is about a pizza Inn where by customers can be able to order their pizza online
+                            and it also shows variety of the pizza's we offer.
+                            Through this app also the customers can order and get their pizza delivered.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="texts">
+                    <div class="website-title">
+                        <a href="https://github.com/LekamCharity/Natalie-news" target="_blank"
+                            referrerpolicy="no-referrer">Natalie-news</a>
+                    </div>
+                    <div class="website-description">
+                        <p> This is an application whereby it contains current issues i.e news to help those who have
+                            less time in watching TV to catch up.
+                            The website contains different articles from different authors</p>
+                    </div>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="texts">
+                    <div class="website-title">
+                        <a href="https://github.com/LekamCharity/PasswordLocker" target="_blank"
+                            referrerpolicy="no-referrer">
+                            PasswordLocker</a>
+                    </div>
+                    <div class="website-description">
+                        <p>This is a python app that enables users to users to store their passwords and also create new
+                            passwords.
+                            The application runs on the terminal and the user navigates through the app by using
+                            shortcodes.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="texts">
+                    <div class="website-title">
+                        <a href="https://github.com/LekamCharity/githubSearch" target="_blank"
+                            referrerpolicy="no-referrer">
+                            GitHubSearch</a>
+                    </div>
+                    <div class="website-description">
+                        <p>GitHub Search API with Angular 10 Application.
+                            This is an application that allows you to search users from GitHub and also their
+                            repositories.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="contact-me" class="fade-in contact-me">
+        <div class="information">
+            <p class="contact-me-title">
+                Have some work, Find me at?
+            </p>
+            <div class="phone">
+                <p>Phone</p>
+                <a href="tel:+254748198037">+254 748198037</a>
+            </div>
+            <div class="email">
+                <p>Email Address</p>
+                <a href="lekamcharity@gmail.com">lekamcharity@gmail.com</a>
+
+            </div>
+            <div class="social-links">
+                <p class="social-links-title">Social Links</p>
+                <div class="social-links-item-wrapper">
+
+                    <div class="social-link-item">
+                        <a href="https://www.linkedin.com/in/lekam-charity-7142871b9/" target="_blank" target="_blank"
+                            rel="noopener noreferrer">
+                            <img src="images/linkedin-icon-2.svg" alt="linkedin logo" />
+                        </a>
+                    </div>
+                    <div class="social-link-item">
+                        <a href="https://web.facebook.com/babie.prudence/" target="_blank" target="_blank"
+                            rel="noopener noreferrer">
+                            <img src="images/facebook-2.svg" alt="linkedin logo" />
+                        </a>
+                    </div>
+                    <div class="social-link-item">
+                        <a href="https://github.com/LekamCharity" target="_blank" target="_blank"
+                            rel="noopener noreferrer">
+                            <img src="images/github-1.svg" alt="linkedin logo" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="input">
+            <div class="wrapper">
+                <p class="form-title">You can also reach me through the contact from below</p>
+                <form action="#" method="POST">
+                    <div class="form-input">
+                        <label for="full-name">Full Name</label>
+                        <input class="form-control" type="text" id="full-name" placeholder="Your full name">
+                    </div>
+                    <div class="form-input">
+                        <label for="email">Email</label>
+                        <input class="form-control" type="text" id="email" placeholder="Your Email">
+                    </div>
+                    <div class="form-input">
+                        <label for="message">Message</label>
+                        <textarea name="message" id="message" cols="30" placeholder="Your Message" rows="10"></textarea>
+                    </div>
+                    <div class="form-input">
+                        <button type="submit">Submit
+                        </button></div>
+                </form>
+
+            </div>
+        </div>
+    </section>
+</body>
+<footer>
+    <script src="index.js">
+
+    </script>
+</footer>
+
+</html>
