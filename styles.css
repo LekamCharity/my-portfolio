@@ -55,19 +55,6 @@ header.sticky nav.navbar div.nav-links-wrapper div.nav-link div.nav-item a.link 
     color: blue;
 }
 
-header nav.navbar .logo-wrapper {
-    padding-left: 20px;
-    width: 200px;
-    font-size: 1.5rem;
-    font-weight: 600;
-}
-
-header nav.navbar .logo-wrapper p {
-    font-family: 'fondamento-regular';
-
-
-}
-
 header nav.navbar .nav-links-wrapper {
     display: flex;
     justify-content: space-between;
@@ -502,10 +489,6 @@ section.is-visible {
 
 }
 
-p1 {
-    color: blueviolet;
-    font-style: italic;
-}
 p2{
     font-size: 20px;
     font-style: italic;
