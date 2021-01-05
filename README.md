@@ -17,6 +17,7 @@ There's no user sign up because the building languages were Html and CSS.
 ## Technologies Used
 I used the HTML to describe the structure of the information on my webpage. The CSS was used for styling the pages' apperance.
 
-### LICENSE
-**{MIT License}**
-Copyright (c) **{Lekam Charity}**
+ ### License
+  [MIT](https://github.com/LekamCharity/my-portfolio/blob/master/LICENSE.md)
+Copyright (c) 2020 **Lekam Charity**
+

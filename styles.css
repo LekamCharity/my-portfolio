@@ -267,7 +267,7 @@ section.projects .projects-title {
 section.projects .projects-title p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 3.0rem;
-    font-weight:40px;
+    font-weight: 40px;
 }
 
 section.projects .projects-wrapper {
@@ -502,7 +502,7 @@ section.is-visible {
 
 }
 
-p1{
-    color:lightblue;
+p1 {
+    color: blueviolet;
     font-style: italic;
 }
