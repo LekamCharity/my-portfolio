@@ -9,7 +9,6 @@ This is a personal page. The main aim is to interact with the user where they ca
 ## Setup/Installation Requirements
 * The WebApp is compatible with devices of all sizes 
   it just uses HTML and CSS to function.
-  Get into the website Here:- <https://github.com/LekamCharity/my-portfolio
 
 ## Known Bugs
 There's no user sign up because the building languages were Html and CSS.
